@@ -12,3 +12,5 @@
 [![asciicast](https://asciinema.org/a/5NxG4lBQIbv3AJOUSNXqfa7sJ.svg)](https://asciinema.org/a/5NxG4lBQIbv3AJOUSNXqfa7sJ)
 ## Run Brain-Progression
 [![asciicast](https://asciinema.org/a/NCOJxsJKZhVquXKKGuluc8l4J.svg)](https://asciinema.org/a/NCOJxsJKZhVquXKKGuluc8l4J)
+## Run Brain-Prime
+[![asciicast](https://asciinema.org/a/1AswGWU9zVpahshedQ3tcC2RZ.svg)](https://asciinema.org/a/1AswGWU9zVpahshedQ3tcC2RZ)
