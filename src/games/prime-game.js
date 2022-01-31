@@ -4,6 +4,9 @@ export const primeRules = 'Answer "yes" if given number is prime. Otherwise answ
 
 export const getPrimeGameData = () => {
   const int = getRandomInt(1, 100);
+  if (int === 1) {
+    return [int, 'no'];
+  }
   const question = int;
   let correctAnswer = 'yes';
   for (let i = 2; i <= int / 2; i += 1) {
