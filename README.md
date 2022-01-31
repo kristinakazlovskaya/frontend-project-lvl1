@@ -4,6 +4,14 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/d09f9e959183b838fa99/maintainability)](https://codeclimate.com/github/kristinakazlovskaya/frontend-project-lvl1/maintainability)
 ![Node CI](https://github.com/kristinakazlovskaya/frontend-project-lvl1/actions/workflows/check-linter.yml/badge.svg)
 
+Brain Games is a set of five console games based on popular mobile brain training apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. Wrong answers end the game and offer to play it again. Games:
+
++ Calculator. Calculations of arithmetic expressions.
++ Progression. Search for missing numbers in a sequence of numbers.
++ Definition of an even number.
++ Finding the greatest common divisor.
++ Definition of a prime number.
+
 ## Setup Brain Games and run Brain-Even
 [![asciicast](https://asciinema.org/a/6gEuaEHPbVd5juZW5ulHflgBG.svg)](https://asciinema.org/a/6gEuaEHPbVd5juZW5ulHflgBG)
 ## Run Brain-Calc
